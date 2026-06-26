@@ -21,3 +21,5 @@ file = open("khan.txt","r")
 data = file.read()
 words = data.split()
 print(len(words))
+
+print("Hello")
